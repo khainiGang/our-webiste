@@ -1,7 +1,10 @@
+import Home from "./pages/Home"
 
 const App = () => {
   return (
-    <div className="text-4xl">Hello World</div>
+    <>
+      <Home/>
+    </>
   )
 }
 
